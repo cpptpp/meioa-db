@@ -1,0 +1,22 @@
+{
+    "name": "meioa/db",
+    "description": "Simple database connection tool",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Meioa\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunny",
+            "email": "814979326@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "ext-pdo": "*"
+    },
+    "minimum-stability": "stable"
+}

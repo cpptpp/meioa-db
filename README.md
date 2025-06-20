@@ -4,6 +4,9 @@ A simple database connection tool in PHP
 
 Installation
 ------------
+```bash
+composer require meioa/db
+```
 
 Example
 -------
